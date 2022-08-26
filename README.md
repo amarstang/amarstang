@@ -1,5 +1,6 @@
 ## Hello World! I'm Niels Jakob
 ### I'm an student at Aarhus University
+### Right now im studying to become a software engineer
 
 
 <!--
