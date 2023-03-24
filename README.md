@@ -1,5 +1,4 @@
-## Hello World! I'm Niels Jakob
-### I'm an student at Aarhus University, studying software engineering.
+# Hello World! I'm Niels Jakob
 <!--
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=amarstang&show_icons=true&title_color=ff652f&icon_color=ff652f&text_color=eeeeee&bg_color=141321&border_color=ce7e00&border_radius=10"/>
 
@@ -10,39 +9,65 @@
 ![Amarstang's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarstang&show_icons=true&title_color=ff652f&icon_color=ff652f&text_color=eeeeee&bg_color=141321&border_color=ce7e00&border_radius=10)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarstang&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+## I'm an student at Aarhus University, studying software engineering.
+
 
 **Coding language I'm learning at UNI and what hardware used for it:**
-- Assembly
+### Assembly
+<details>
+<summary>Assembly info</summary>
+
   - IDE/IDEs
     - Atmel studio
   - Hardware
-    - arduino 2560
+    - Arduino mega 2560
   - Projects
     - To be added
+</details>
 
-- VHDL
+ ---
+
+### VHDL
+<details>
+<summary>VHDL info</summary>
+
   - IDE/IDEs
     - Quartus II, VS Code & Notepad++
   - Hardware
     - DE2 board
   - Projects
     - To be added
+</details>
 
-- C
+---
+
+### C
+<details>
+<summary>C info</summary>
+  
   - IDE/IDEs
     - VS Code, Notepadd++, Visual studio 2019, and 2022
   - Hardware
-    - Arduino 2560, PSoC5, and Raspberry pi zero
+    - Arduino mega 2560, PSoC5, and Raspberry pi zero
   - Projects
     - To be added
+</details>
 
-- C++
+---
+  
+### C++
+<details>
+<summary>C++ info</summary>
+  
   - IDE/IDEs
     - VS Code, Notepadd++, Visual studio 2019, and 2022
   - Hardware
-    - Arduino 2560
+    - Arduino mega 2560
   - Projects
     - To be added
+</details>
+
+---
 
 **To be Learned at UNI**
 - C#
@@ -52,6 +77,14 @@
 **Gymnasium (before UNI)**
 - C#
   - IDE/IDE's
-    - VS Code, Notepadd++, and Visual studio 2019
+    - VS Code, Notepadd++, and Visual studio 2017, and 2019
   - Hardware
     - Personal Computer
+
+- C
+  - IDE/IDEs
+    - VS Code, Notepadd++, Visual studio 2017, and 2019
+  - Hardware
+    - Arduino mega 2560, PSoC5, and Raspberry pi zero
+  - Projects
+    - To be added
