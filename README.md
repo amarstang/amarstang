@@ -1,5 +1,22 @@
 ## Hello World! I'm Niels Jakob
-### I'm an student at Aarhus University, studying software.
+### I'm an student at Aarhus University, studying software engineering.
+Coding language I'm learning at UNI and what hardware used fir it:
+- Assembly
+  - IDE/IDEs
+    - Atmel studio
+  - Hardware
+    - arduino 2560
+- VHDL
+  - IDE/IDEs
+    - Quartus II, VS code & Notepad++
+  - Hardware
+    - DE2 board
+- C             (arduino 2560, PSoC5, Raspberry pi zero )
+- C++           ()
+
+- C#            ()
+- Linux server  ()
+- Linux os      ()
 
 
 <!--
