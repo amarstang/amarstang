@@ -88,3 +88,9 @@
     - Arduino mega 2560, PSoC5, and Raspberry pi zero
   - Projects
     - To be added
+
+Info for set up
+https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections
+
+Matrix
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
