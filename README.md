@@ -89,8 +89,21 @@
   - Projects
     - To be added
 
-Info for set up
-https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections
 
-Matrix
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
+<details>
+<summary>Linkes used for readme setup</summary>
+  
+  - IDE/Editor
+    - VS Code, Notepadd++, Visual studio 2019, and 2022
+  - Hardware
+    - Arduino mega 2560
+  - Projects
+    - To be added
+   
+  - General Infoformation on setting up
+    - https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections
+
+  - Matrix creation
+    - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
+</details>
+
