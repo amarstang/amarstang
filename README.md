@@ -17,7 +17,7 @@
 <details>
 <summary>Assembly info</summary>
 
-  - IDE/IDEs
+  - IDE/Editor
     - Atmel studio
   - Hardware
     - Arduino mega 2560
@@ -31,7 +31,7 @@
 <details>
 <summary>VHDL info</summary>
 
-  - IDE/IDEs
+  - IDE/Editor
     - Quartus II, VS Code & Notepad++
   - Hardware
     - DE2 board
@@ -45,7 +45,7 @@
 <details>
 <summary>C info</summary>
   
-  - IDE/IDEs
+  - IDE/Editor
     - VS Code, Notepadd++, Visual studio 2019, and 2022
   - Hardware
     - Arduino mega 2560, PSoC5, and Raspberry pi zero
@@ -59,7 +59,7 @@
 <details>
 <summary>C++ info</summary>
   
-  - IDE/IDEs
+  - IDE/Editor
     - VS Code, Notepadd++, Visual studio 2019, and 2022
   - Hardware
     - Arduino mega 2560
@@ -82,7 +82,7 @@
     - Personal Computer
 
 - C
-  - IDE/IDEs
+  - IDE/Editor
     - VS Code, Notepadd++, Visual studio 2017, and 2019
   - Hardware
     - Arduino mega 2560, PSoC5, and Raspberry pi zero
