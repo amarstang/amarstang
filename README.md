@@ -73,6 +73,8 @@
 - C#
 - Linux server
 - Linux os
+- Makefiles
+- Embedded software development
 
 **Gymnasium (before UNI)**
 - C#
@@ -86,6 +88,14 @@
     - VS Code, Notepadd++, Visual studio 2017, and 2019
   - Hardware
     - Arduino mega 2560, PSoC5, and Raspberry pi zero
+  - Projects
+    - To be added
+
+- C++
+  - IDE/Editor
+    - VS Code, Notepadd++, Visual studio 2017, and 2019
+  - Hardware
+    - PSoC5 and Raspberry pi
   - Projects
     - To be added
 
