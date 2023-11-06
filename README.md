@@ -11,7 +11,7 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarstang&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 ## I'm an student at Aarhus University, studying software engineering.
 
-
+<!--
 **Coding language I'm learning at UNI and what hardware used for it:**
 ### Assembly
 <details>
@@ -116,4 +116,4 @@
   - Matrix creation
     - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
 </details>
-
+-->
