@@ -12,7 +12,7 @@
 -->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarstang&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-## I'm an student at Aarhus University, studying software engineering.
+## I'm a B. eng. from Aarhus University, studying software engineering.
 
 <!--
 **Coding language I'm learning at UNI and what hardware used for it:**
