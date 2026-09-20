@@ -1,122 +1,59 @@
+# Hi, I'm Niels Jakob
 
-<!--
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=amarstang&show_icons=true&title_color=ff652f&icon_color=ff652f&text_color=eeeeee&bg_color=141321&border_color=ce7e00&border_radius=10"/>
+I like building software, figuring out how systems work, and turning messy problems into something practical.
 
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarstang&layout=compact" />
--->                       
-
-
-<!--
-![Amarstang's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarstang&show_icons=true&title_color=ff652f&icon_color=ff652f&text_color=eeeeee&bg_color=141321&border_color=ce7e00&border_radius=10)
--->
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarstang&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-## I'm a B. eng. in Software Technology from Aarhus University.
-
-<!--
-**Coding language I'm learning at UNI and what hardware used for it:**
-### Assembly
-<details>
-<summary>Assembly info</summary>
-
-  - IDE/Editor
-    - Atmel studio
-  - Hardware
-    - Arduino mega 2560
-  - Projects
-    - To be added
-</details>
-
- ---
-
-### VHDL
-<details>
-<summary>VHDL info</summary>
-
-  - IDE/Editor
-    - Quartus II, VS Code & Notepad++
-  - Hardware
-    - DE2 board
-  - Projects
-    - To be added
-</details>
+Most of my work is around **C#/.NET, Java, TypeScript, Python, testing, backend logic, and game-related systems**.
 
 ---
 
-### C
-<details>
-<summary>C info</summary>
-  
-  - IDE/Editor
-    - VS Code, Notepadd++, Visual studio 2019, and 2022
-  - Hardware
-    - Arduino mega 2560, PSoC5, and Raspberry pi zero
-  - Projects
-    - To be added
-</details>
+## Currently working on
 
----
-  
-### C++
-<details>
-<summary>C++ info</summary>
-  
-  - IDE/Editor
-    - VS Code, Notepadd++, Visual studio 2019, and 2022
-  - Hardware
-    - Arduino mega 2560
-  - Projects
-    - To be added
-</details>
+🛠️ **Torchlight Infinite Build Planner**
+
+Researching game systems, data modelling, and architecture for a build-planning tool inspired by Path of Building.
 
 ---
 
-**To be Learned at UNI**
-- C#
-- Linux server
-- Linux os
-- Makefiles
-- Embedded software development
+## Tech I use
 
-**Gymnasium (before UNI)**
-- C#
-  - IDE/IDE's
-    - VS Code, Notepadd++, and Visual studio 2017, and 2019
-  - Hardware
-    - Personal Computer
+![C#](https://img.shields.io/badge/C%23-.NET-512BD4?logo=dotnet)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular)
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-- C
-  - IDE/Editor
-    - VS Code, Notepadd++, Visual studio 2017, and 2019
-  - Hardware
-    - Arduino mega 2560, PSoC5, and Raspberry pi zero
-  - Projects
-    - To be added
+---
 
-- C++
-  - IDE/Editor
-    - VS Code, Notepadd++, Visual studio 2017, and 2019
-  - Hardware
-    - PSoC5 and Raspberry pi
-  - Projects
-    - To be added
+## Some things I've built
 
+### ♟️ Checkmates
+Online chess platform with custom chess logic, FEN-based game state, move validation, testing, and multiplayer design.
 
-<details>
-<summary>Linkes used for readme setup</summary>
-  
-  - IDE/Editor
-    - VS Code, Notepadd++, Visual studio 2019, and 2022
-  - Hardware
-    - Arduino mega 2560
-  - Projects
-    - To be added
-   
-  - General Infoformation on setting up
-    - https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections
+### 🎮 Parallax
+Asymmetric co-op puzzle game made in Unity.
 
-  - Matrix creation
-    - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
-</details>
--->
+### 🎙️ Local Whisper Transcription
+Python scripts for local, privacy-conscious audio transcription using `faster-whisper`.
+
+---
+
+## GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amarstang&show_icons=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amarstang&layout=compact)
+
+---
+
+## Activity
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=amarstang&hide_border=true)
+
+---
+
+## Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Niels%20Jakob-0A66C2?logo=linkedin)](https://linkedin.com/in/niels-jakob)
