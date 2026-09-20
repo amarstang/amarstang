@@ -1,4 +1,4 @@
-# Hi, I'm Niels Jakob 👋
+# Hi, I'm Niels Jakob
 
 I like building software, figuring out how systems work, and turning messy problems into something practical.
 
@@ -8,7 +8,7 @@ Most of my work is around **C#/.NET, Java, TypeScript, Python, testing, backend 
 
 ## Currently working on
 
-🛠️ **Torchlight Infinite Build Planner**
+**Torchlight Infinite Build Planner**
 
 Researching game systems, data modelling, and architecture for a build-planning tool inspired by Path of Building.
 
@@ -29,15 +29,15 @@ Researching game systems, data modelling, and architecture for a build-planning 
 
 ## Some things I've built
 
-### ♟️ Checkmates
+### Checkmates ♟️
 
 An online chess platform with custom chess logic, FEN-based game state, move validation, testing, and multiplayer design.
 
-### 🎮 Parallax
+### Parallax 🎮
 
 An asymmetric co-op puzzle game built in Unity as my bachelor project.
 
-### 🎙️ Local Whisper Transcription
+### Local Whisper Transcription
 
 Python scripts for local, privacy-conscious audio transcription using `faster-whisper`.
 
