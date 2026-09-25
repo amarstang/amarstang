@@ -12,9 +12,8 @@ Most of my work is around **C#/.NET, Java, TypeScript, Python, testing, backend 
 **Torchlight Infinite Build Planner**
 
 Researching game systems, data modelling, and architecture for a build-planning tool inspired by Path of Building.
--->
-
 ---
+-->
 
 ## Tech I use
 
